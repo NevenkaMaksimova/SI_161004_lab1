@@ -1,0 +1,5 @@
+commit 86149ef06600753f7a821be0ed2c7f62f5af5dee
+Author: Nevenka Maksimova <nevenka.maksimvoa@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:37:55 2019 +0200
+
+    Initial commit
